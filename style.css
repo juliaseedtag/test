@@ -1,3 +1,6 @@
 div {
-    color: red;
+    font-weight: bold;
+    padding: 20px;
+    color: navy;
+    font-family: Arial, sans-serif;
 }
